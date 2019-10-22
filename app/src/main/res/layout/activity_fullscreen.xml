@@ -46,6 +46,14 @@
                 android:text="@string/dummy_button" />
 
         </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="305dp"
+            android:layout_height="112dp"
+            android:text="Hello World"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+            android:textStyle="normal" />
     </FrameLayout>
 
 </FrameLayout>
